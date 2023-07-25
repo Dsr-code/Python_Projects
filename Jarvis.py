@@ -73,7 +73,7 @@ def wishme():
 #     except sr.WaitTimeoutError:
 #         pass
 #     return voice_text
-wishme()
+# wishme()
 # v=NewsFromBBC()
 # speak(v)
 
